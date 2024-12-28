@@ -1,0 +1,8 @@
+.DS_Store
+.v*
+.py*
+.env
+input/*
+!.gitkeep 
+src/__*
+uv*
