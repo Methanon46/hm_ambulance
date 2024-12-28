@@ -20,7 +20,7 @@ notebook/eda.ipynbを開く。
 vscodeで仮想環境名は.venvである。
 vscodeのData Wranglerで大まかに表が見れる。
 ## uvの導入方法
-- Linux
+- Linux/macos
     ```sh
     curl -LsSf https://astral.sh/uv/install.sh | sh
     ```
