@@ -9,11 +9,15 @@ pip install .
 ```sh  
 uv sync
 ```
+vscodeで実行する場合には、あらかじめ以下の拡張機能を入れておく  
+- Data Wrangler
+- Jupyter
+- Python
 
 # eda(探索的データ分析)でデータの特徴を掴む
 notebook/eda.ipynbを開く。  
 vscodeで仮想環境名は.venvである。
-
+vscodeのData Wranglerで大まかに表が見れる。
 ## uvの導入方法
 - Linux
     ```sh
