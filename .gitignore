@@ -3,6 +3,5 @@
 .nvim*
 .env
 input/*
-!.gitkeep 
 src/__*
 uv*
