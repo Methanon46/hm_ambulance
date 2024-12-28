@@ -9,3 +9,18 @@ pip install .
 ```sh  
 uv sync
 ```
+
+# eda(探索的データ分析)でデータの特徴を掴む
+notebook/eda.ipynbを開く。  
+vscodeで仮想環境名は.venvである。
+
+## uvの導入方法
+- Linux
+    ```sh
+    curl -LsSf https://astral.sh/uv/install.sh | sh
+    ```
+
+- macos (Homebrew)
+  ```sh
+  brew install uv
+  ```
