@@ -1,0 +1,13 @@
+[project]
+name = "hm-ambulance"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipython>=8.31.0",
+    "matplotlib>=3.10.0",
+    "torch>=2.5.1",
+    "torchaudio>=2.5.1",
+    "torchvision>=0.20.1",
+]
