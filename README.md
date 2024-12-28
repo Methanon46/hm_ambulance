@@ -15,7 +15,7 @@ vscodeで実行する場合には、あらかじめ以下の拡張機能を入�
 - Jupyter
 - Python
 
-# eda(探索的データ分析)でデータの特徴を掴む
+## eda(探索的データ分析)でデータの特徴を掴む
 notebook/eda.ipynbを開く。  
 vscodeで仮想環境名は.venvである。
 vscodeのData Wranglerで大まかに表が見れる。
