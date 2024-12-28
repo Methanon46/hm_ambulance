@@ -6,9 +6,13 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=6.29.5",
+    "jupyter-client>=8.6.3",
+    "jupyterlab>=4.3.4",
+    "jupytext>=1.16.6",
     "matplotlib>=3.10.0",
     "openpyxl>=3.1.5",
     "pandas>=2.2.3",
+    "pynvim>=0.5.2",
     "torch>=2.5.1",
     "torchaudio>=2.5.1",
     "torchvision>=0.20.1",
