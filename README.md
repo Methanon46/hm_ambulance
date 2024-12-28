@@ -4,6 +4,7 @@
 inputディレクトリに、消防データを入れる
 - pipの場合
 ```sh
+pip install -U pip
 pip install .
 ```
 - uvの場合
