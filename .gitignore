@@ -3,5 +3,6 @@
 .nvim*
 .env
 input/*
+output/*
 src/__*
 uv*
